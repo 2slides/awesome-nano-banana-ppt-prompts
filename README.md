@@ -21,7 +21,7 @@ This repository contains curated prompts for generating high-quality PPT slides.
 
 ## Prompts Gallery
 
-Total: **6** prompts
+Total: **7** prompts
 
 - ### [Analog film photography aesthetic](prompts/analog-film-photography-aesthetic/prompt.md)
 
@@ -36,6 +36,14 @@ Total: **6** prompts
   ![Preview](prompts/egyptian-theme-for-junior-graders-students/preview-1.webp)
 
   **Tags:** `Egyptian`, `education`, `student`, `junior graders`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [McKinsey & Company presentation style](prompts/mckinsey-company-presentation-style/prompt.md)
+
+  ![Preview](prompts/mckinsey-company-presentation-style/preview-1.webp)
+
+  **Tags:** `McKinsey`, `consultant`, `business`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
