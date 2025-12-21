@@ -23,141 +23,61 @@ This repository contains curated prompts for generating high-quality PPT slides.
 
 Total: **7** prompts
 
-<table>
-<tr>
-<td width="33%">
+- ### [McKinsey & Company presentation style](prompts/mckinsey-company-presentation-style/prompt.md)
 
-#### [McKinsey & Company presentation style](prompts/mckinsey-company-presentation-style/prompt.md)
+  ![Preview](prompts/mckinsey-company-presentation-style/preview-1.webp)
 
-![Preview](prompts/mckinsey-company-presentation-style/preview-1.webp)
+  McKinsey & Company presentation style
 
-**Description:** McKinsey & Company presentation style
+  **Tags:** `McKinsey`, `consultant` | **Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
 
-**Tags:** `McKinsey`, `consultant`
+- ### [Product launch deck in Apple-style minimalism](prompts/product-launch-deck-in-apple-style-minimalism/prompt.md)
 
-**Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
+  ![Preview](prompts/product-launch-deck-in-apple-style-minimalism/preview-1.jpg)
 
-**Likes:** ❤️ 553
+  Product launch deck in Apple-style minimalism
 
-[View Details →](prompts/mckinsey-company-presentation-style/prompt.md)
+  **Tags:** `apple`, `product launch` | **Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
 
-</td>
-<td width="33%">
+- ### [Analog film photography aesthetic](prompts/analog-film-photography-aesthetic/prompt.md)
 
-#### [Product launch deck in Apple-style minimalism](prompts/product-launch-deck-in-apple-style-minimalism/prompt.md)
+  ![Preview](prompts/analog-film-photography-aesthetic/preview-1.webp)
 
-![Preview](prompts/product-launch-deck-in-apple-style-minimalism/preview-1.jpg)
+  Analog film photography aesthetic
 
-**Description:** Product launch deck in Apple-style minimalism
+  **Tags:** `analog photography`, `35mm film`, `kodak portra`, `hiking life`, `film grain` | **Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
 
-**Tags:** `apple`, `product launch`
+- ### [Egyptian theme for junior graders students](prompts/egyptian-theme-for-junior-graders-students/prompt.md)
 
-**Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
+  ![Preview](prompts/egyptian-theme-for-junior-graders-students/preview-1.webp)
 
-**Likes:** ❤️ 128
+  Egyptian theme for junior graders students
 
-[View Details →](prompts/product-launch-deck-in-apple-style-minimalism/prompt.md)
+  **Tags:** `Egyptian`, `education`, `student`, `junior graders` | **Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
 
-</td>
-<td width="33%">
+- ### [Travel journal collage](prompts/travel-journal-collage/prompt.md)
 
-#### [Analog film photography aesthetic](prompts/analog-film-photography-aesthetic/prompt.md)
+  ![Preview](prompts/travel-journal-collage/preview-1.webp)
 
-![Preview](prompts/analog-film-photography-aesthetic/preview-1.webp)
+  Travel journal collage
 
-**Description:** Analog film photography aesthetic
+  **Tags:** `travel journal`, `mixed media`, `collage art`, `polaroid`, `road trip`, `hand written`, `scrapbooking` | **Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
 
-**Tags:** `analog photography`, `35mm film`, `kodak portra`, `hiking life`, `film grain`
+- ### [Moody outdoor photography](prompts/moody-outdoor-photography/prompt.md)
 
-**Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
+  ![Preview](prompts/moody-outdoor-photography/preview-1.webp)
 
-**Likes:** ❤️ 33
+  Moody outdoor photography
 
-[View Details →](prompts/analog-film-photography-aesthetic/prompt.md)
+  **Tags:** `moody photography`, `foggy forest`, `silhouette` | **Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
 
-</td>
-</tr>
-</table>
+- ### [WPA National Park poster style](prompts/wpa-national-park-poster-style/prompt.md)
 
-<table>
-<tr>
-<td width="33%">
+  ![Preview](prompts/wpa-national-park-poster-style/preview-1.webp)
 
-#### [Egyptian theme for junior graders students](prompts/egyptian-theme-for-junior-graders-students/prompt.md)
+  WPA National Park poster style
 
-![Preview](prompts/egyptian-theme-for-junior-graders-students/preview-1.webp)
-
-**Description:** Egyptian theme for junior graders students
-
-**Tags:** `Egyptian`, `education`, `student`, `junior graders`
-
-**Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
-
-**Likes:** ❤️ 25
-
-[View Details →](prompts/egyptian-theme-for-junior-graders-students/prompt.md)
-
-</td>
-<td width="33%">
-
-#### [Travel journal collage](prompts/travel-journal-collage/prompt.md)
-
-![Preview](prompts/travel-journal-collage/preview-1.webp)
-
-**Description:** Travel journal collage
-
-**Tags:** `travel journal`, `mixed media`, `collage art`, `polaroid`, `road trip`, `hand written`, `scrapbooking`
-
-**Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
-
-**Likes:** ❤️ 13
-
-[View Details →](prompts/travel-journal-collage/prompt.md)
-
-</td>
-<td width="33%">
-
-#### [Moody outdoor photography](prompts/moody-outdoor-photography/prompt.md)
-
-![Preview](prompts/moody-outdoor-photography/preview-1.webp)
-
-**Description:** Moody outdoor photography
-
-**Tags:** `moody photography`, `foggy forest`, `silhouette`
-
-**Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
-
-**Likes:** ❤️ 8
-
-[View Details →](prompts/moody-outdoor-photography/prompt.md)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="33%">
-
-#### [WPA National Park poster style](prompts/wpa-national-park-poster-style/prompt.md)
-
-![Preview](prompts/wpa-national-park-poster-style/preview-1.webp)
-
-**Description:** WPA National Park poster style
-
-**Tags:** `WPA poster`, `national park poster`, `vintage travel`, `mountain landscape`, `flat design`, `retro poster`
-
-**Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
-
-**Likes:** ❤️ 8
-
-[View Details →](prompts/wpa-national-park-poster-style/prompt.md)
-
-</td>
-<td width="33%"></td>
-<td width="33%"></td>
-</tr>
-</table>
+  **Tags:** `WPA poster`, `national park poster`, `vintage travel`, `mountain landscape`, `flat design`, `retro poster` | **Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
 
 ## How to Use
 
