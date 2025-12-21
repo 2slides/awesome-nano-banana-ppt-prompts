@@ -29,7 +29,7 @@ Total: **7** prompts
 
   McKinsey & Company presentation style
 
-  **Tags:** `McKinsey`, `consultant` | **Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
+  **Tags:** `McKinsey`, `consultant`, `business` | **Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
 
 - ### [Product launch deck in Apple-style minimalism](prompts/product-launch-deck-in-apple-style-minimalism/prompt.md)
 
