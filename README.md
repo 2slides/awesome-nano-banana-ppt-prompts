@@ -128,7 +128,7 @@ Total: **12** prompts
 
 ## Contributing
 
-We welcome community contributions! Please refer to [CONTRIBUTING.md](.github/CONTRIBUTING.md) for guidelines.
+We welcome community contributions! Please refer to [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 ### Contribution Process
 
