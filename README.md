@@ -21,7 +21,7 @@ This repository contains curated prompts for generating high-quality PPT slides.
 
 ## Prompts Gallery
 
-Total: **7** prompts
+Total: **12** prompts
 
 - ### [Analog film photography aesthetic](prompts/analog-film-photography-aesthetic/prompt.md)
 
@@ -36,6 +36,22 @@ Total: **7** prompts
   ![Preview](prompts/egyptian-theme-for-junior-graders-students/preview-1.webp)
 
   **Tags:** `Egyptian`, `education`, `student`, `junior graders`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [IBM style with the modern "IBM Carbon" style](prompts/ibm-style-with-the-modern-ibm-carbon-style/prompt.md)
+
+  ![Preview](prompts/ibm-style-with-the-modern-ibm-carbon-style/preview-1.webp)
+
+  **Tags:** `IBM style`, `IBM Carbon design`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [IBM style with the "Paul Rand" heritage look](prompts/ibm-style-with-the-paul-rand-heritage-look/prompt.md)
+
+  ![Preview](prompts/ibm-style-with-the-paul-rand-heritage-look/preview-1.webp)
+
+  **Tags:** `ibm style`, `Paul Rand`, `heritage`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
@@ -60,6 +76,30 @@ Total: **7** prompts
   ![Preview](prompts/product-launch-deck-in-apple-style-minimalism/preview-1.jpg)
 
   **Tags:** `apple`, `product launch`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Saul Bass style with the classic "Anatomy of a Murder" Look](prompts/saul-bass-style-with-the-classic-anatomy-of-a-murder-look/prompt.md)
+
+  ![Preview](prompts/saul-bass-style-with-the-classic-anatomy-of-a-murder-look/preview-1.webp)
+
+  **Tags:** `Saul Bass`, `Anatomy of a Murder`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Saul Bass style with the "corporate/network" geometric look](prompts/saul-bass-style-with-the-corporate-network-geometric-look/prompt.md)
+
+  ![Preview](prompts/saul-bass-style-with-the-corporate-network-geometric-look/preview-1.webp)
+
+  **Tags:** `Saul Bass`, `corporate`, `geometric`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Saul Bass style with "title sequence" narrative style](prompts/saul-bass-style-with-title-sequence-narrative-style/prompt.md)
+
+  ![Preview](prompts/saul-bass-style-with-title-sequence-narrative-style/preview-1.webp)
+
+  **Tags:** `Saul Bass`, `title sequence`, `narrative`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
@@ -88,7 +128,7 @@ Total: **7** prompts
 
 ## Contributing
 
-We welcome community contributions! Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+We welcome community contributions! Please refer to [CONTRIBUTING.md](.github/CONTRIBUTING.md) for guidelines.
 
 ### Contribution Process
 
