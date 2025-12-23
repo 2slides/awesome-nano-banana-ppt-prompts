@@ -21,13 +21,21 @@ This repository contains curated prompts for generating high-quality PPT slides.
 
 ## Prompts Gallery
 
-Total: **12** prompts
+Total: **16** prompts
 
 - ### [Analog film photography aesthetic](prompts/analog-film-photography-aesthetic/prompt.md)
 
   ![Preview](prompts/analog-film-photography-aesthetic/preview-1.webp)
 
   **Tags:** `analog photography`, `35mm film`, `kodak portra`, `hiking life`, `film grain`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Christmas classic color theme and elements](prompts/christmas-classic-color-theme-and-elements/prompt.md)
+
+  ![Preview](prompts/christmas-classic-color-theme-and-elements/preview-1.webp)
+
+  **Tags:** `classic chrismas`, `3d`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
@@ -55,11 +63,27 @@ Total: **12** prompts
 
   **Contributor:** [2slides](https://github.com/2slides)
 
+- ### [Luxury Vintage Christmas](prompts/luxury-vintage-christmas/prompt.md)
+
+  ![Preview](prompts/luxury-vintage-christmas/preview-1.webp)
+
+  **Tags:** `Luxury`, `Vintage`, `Christmas`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
 - ### [McKinsey & Company presentation style](prompts/mckinsey-company-presentation-style/prompt.md)
 
   ![Preview](prompts/mckinsey-company-presentation-style/preview-1.webp)
 
   **Tags:** `McKinsey`, `consultant`, `business`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Modern Minimalist Christmas](prompts/modern-minimalist-christmas/prompt.md)
+
+  ![Preview](prompts/modern-minimalist-christmas/preview-1.webp)
+
+  **Tags:** `Christmas`, `Modern`, `Minimalist`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
@@ -111,6 +135,14 @@ Total: **12** prompts
 
   **Contributor:** [2slides](https://github.com/2slides)
 
+- ### [Whimsical 3D isometric Christmas](prompts/whimsical-3d-isometric-christmas/prompt.md)
+
+  ![Preview](prompts/whimsical-3d-isometric-christmas/preview-1.webp)
+
+  **Tags:** `Whimsical`, `3D`, `Christmas`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
 - ### [WPA National Park poster style](prompts/wpa-national-park-poster-style/prompt.md)
 
   ![Preview](prompts/wpa-national-park-poster-style/preview-1.webp)
@@ -128,7 +160,7 @@ Total: **12** prompts
 
 ## Contributing
 
-We welcome community contributions! Please refer to [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+We welcome community contributions! Please refer to [CONTRIBUTING.md](.github/CONTRIBUTING.md) for guidelines.
 
 ### Contribution Process
 
