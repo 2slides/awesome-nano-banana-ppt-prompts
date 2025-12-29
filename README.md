@@ -13,7 +13,7 @@ A curated collection of Nano Banana Pro prompts for PPT, infographics with image
 ## About
 
 This repository contains curated prompts for generating high-quality PPT slides. Each prompt includes:
-- Detailed prompt text
+- Detailed prompt text (if the prompt text is not available, you can use [Create Like This](https://2slides.com/features/create-slides-like-this) feature to generate from the reference image)
 - Preview images
 - Tags for categorization
 - Contributor information
