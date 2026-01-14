@@ -21,7 +21,15 @@ This repository contains curated prompts for generating high-quality PPT slides.
 
 ## Prompts Gallery
 
-Total: **24** prompts
+Total: **26** prompts
+
+- ### [3D Impasto Micro-Landscape Poster: Oil Painting Pen Stroke on Xuan Paper](prompts/3d-impasto-micro-landscape-poster-oil-painting-pen-stroke-on-xuan-paper/prompt.md)
+
+  ![Preview](prompts/3d-impasto-micro-landscape-poster-oil-painting-pen-stroke-on-xuan-paper/preview-1.webp)
+
+  **Tags:** `3D Impasto`, `Micro-landscape`, `Neon Purple`, `Academic Typography`, `Minimalist Top-down`
+
+  **Contributor:** [2slides](https://github.com/2slides)
 
 - ### [Analog film photography aesthetic](prompts/analog-film-photography-aesthetic/prompt.md)
 
@@ -124,6 +132,14 @@ Total: **24** prompts
   ![Preview](prompts/moody-outdoor-photography/preview-1.webp)
 
   **Tags:** `moody photography`, `foggy forest`, `silhouette`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [New Chinese-style minimalist illustration](prompts/new-chinese-style-minimalist-illustration/prompt.md)
+
+  ![Preview](prompts/new-chinese-style-minimalist-illustration/preview-1.webp)
+
+  **Tags:** `New Chinese-style`, `Ancient`, `zen-like atmosphere`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
