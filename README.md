@@ -21,7 +21,7 @@ This repository contains curated prompts for generating high-quality PPT slides.
 
 ## Prompts Gallery
 
-Total: **26** prompts
+Total: **27** prompts
 
 - ### [3D Impasto Micro-Landscape Poster: Oil Painting Pen Stroke on Xuan Paper](prompts/3d-impasto-micro-landscape-poster-oil-painting-pen-stroke-on-xuan-paper/prompt.md)
 
@@ -36,6 +36,14 @@ Total: **26** prompts
   ![Preview](prompts/analog-film-photography-aesthetic/preview-1.webp)
 
   **Tags:** `analog photography`, `35mm film`, `kodak portra`, `hiking life`, `film grain`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Black information cards and a snow-capped mountain background in monochrome style](prompts/black-information-cards-and-a-snow-capped-mountain-background-in-monochrome-style/prompt.md)
+
+  ![Preview](prompts/black-information-cards-and-a-snow-capped-mountain-background-in-monochrome-style/preview-1.webp)
+
+  **Tags:** `Monochrome infographic`, `Mountain background`, `Clean design`, `Dark cards`, `Minimalist tech`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
