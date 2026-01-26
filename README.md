@@ -21,7 +21,7 @@ This repository contains curated prompts for generating high-quality PPT slides.
 
 ## Prompts Gallery
 
-Total: **27** prompts
+Total: **28** prompts
 
 - ### [3D Impasto Micro-Landscape Poster: Oil Painting Pen Stroke on Xuan Paper](prompts/3d-impasto-micro-landscape-poster-oil-painting-pen-stroke-on-xuan-paper/prompt.md)
 
@@ -60,6 +60,14 @@ Total: **27** prompts
   ![Preview](prompts/christmas-classic-color-theme-and-elements/preview-1.webp)
 
   **Tags:** `classic chrismas`, `3d`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Climate crisis style data visualization breakdown infographics](prompts/climate-crisis-style-data-visualization-breakdown-infographics/prompt.md)
+
+  ![Preview](prompts/climate-crisis-style-data-visualization-breakdown-infographics/preview-1.webp)
+
+  **Tags:** `Climate crisis style`, `grey`, `breakdown pie chart`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
