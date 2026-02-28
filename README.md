@@ -21,13 +21,21 @@ This repository contains curated prompts for generating high-quality PPT slides.
 
 ## Prompts Gallery
 
-Total: **28** prompts
+Total: **33** prompts
 
 - ### [3D Impasto Micro-Landscape Poster: Oil Painting Pen Stroke on Xuan Paper](prompts/3d-impasto-micro-landscape-poster-oil-painting-pen-stroke-on-xuan-paper/prompt.md)
 
   ![Preview](prompts/3d-impasto-micro-landscape-poster-oil-painting-pen-stroke-on-xuan-paper/preview-1.webp)
 
   **Tags:** `3D Impasto`, `Micro-landscape`, `Neon Purple`, `Academic Typography`, `Minimalist Top-down`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [A flat lay infographic depicting the water cycle](prompts/a-flat-lay-infographic-depicting-the-water-cycle/prompt.md)
+
+  ![Preview](prompts/a-flat-lay-infographic-depicting-the-water-cycle/preview-1.webp)
+
+  **Tags:** `Flat`, `infographic`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
@@ -68,6 +76,22 @@ Total: **28** prompts
   ![Preview](prompts/climate-crisis-style-data-visualization-breakdown-infographics/preview-1.webp)
 
   **Tags:** `Climate crisis style`, `grey`, `breakdown pie chart`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [COLOR PALETTE - BLUEPRINT & POP LOGIC](prompts/color-palette-blueprint-pop-logic/prompt.md)
+
+  ![Preview](prompts/color-palette-blueprint-pop-logic/preview-1.jpg)
+
+  **Tags:** `Blueprint`, `pop logic`, `grid`, `technique`, `system`, `architecture`, ``
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Color relief style](prompts/color-relief-style/prompt.md)
+
+  ![Preview](prompts/color-relief-style/preview-1.jpg)
+
+  **Tags:** `Color`, `Relief`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
@@ -159,6 +183,14 @@ Total: **28** prompts
 
   **Contributor:** [2slides](https://github.com/2slides)
 
+- ### [Orthographic blueprint with plan, elevation and section](prompts/orthographic-blueprint-with-plan-elevation-and-section/prompt.md)
+
+  ![Preview](prompts/orthographic-blueprint-with-plan-elevation-and-section/preview-1.jpeg)
+
+  **Tags:** `orthographic blueprint`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
 - ### [Product launch deck in Apple-style minimalism](prompts/product-launch-deck-in-apple-style-minimalism/prompt.md)
 
   ![Preview](prompts/product-launch-deck-in-apple-style-minimalism/preview-1.jpg)
@@ -212,6 +244,14 @@ Total: **28** prompts
   ![Preview](prompts/travel-journal-collage/preview-1.webp)
 
   **Tags:** `travel journal`, `mixed media`, `collage art`, `polaroid`, `road trip`, `hand written`, `scrapbooking`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Triptych infographic comparing cloud types](prompts/triptych-infographic-comparing-cloud-types/prompt.md)
+
+  ![Preview](prompts/triptych-infographic-comparing-cloud-types/preview-1.webp)
+
+  **Tags:** `triptych`, `infographic`, `comic`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
