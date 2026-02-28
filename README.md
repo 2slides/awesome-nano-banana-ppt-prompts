@@ -21,7 +21,7 @@ This repository contains curated prompts for generating high-quality PPT slides.
 
 ## Prompts Gallery
 
-Total: **33** prompts
+Total: **34** prompts
 
 - ### [3D Impasto Micro-Landscape Poster: Oil Painting Pen Stroke on Xuan Paper](prompts/3d-impasto-micro-landscape-poster-oil-painting-pen-stroke-on-xuan-paper/prompt.md)
 
@@ -196,6 +196,14 @@ Total: **33** prompts
   ![Preview](prompts/product-launch-deck-in-apple-style-minimalism/preview-1.jpg)
 
   **Tags:** `apple`, `product launch`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Retro Pop Grid High-Density Information Poster](prompts/retro-pop-grid-high-density-information-poster/prompt.md)
+
+  ![Preview](prompts/retro-pop-grid-high-density-information-poster/preview-1.jpg)
+
+  **Tags:** `retro`, `pop art`, `grid layout`, `high-density information`, `infographic`, `data visualization`, `vintage style`, `bold colors`, `graphic design`, `poster design`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
