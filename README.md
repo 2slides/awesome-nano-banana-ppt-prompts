@@ -21,7 +21,7 @@ This repository contains curated prompts for generating high-quality PPT slides.
 
 ## Prompts Gallery
 
-Total: **34** prompts
+Total: **38** prompts
 
 - ### [3D Impasto Micro-Landscape Poster: Oil Painting Pen Stroke on Xuan Paper](prompts/3d-impasto-micro-landscape-poster-oil-painting-pen-stroke-on-xuan-paper/prompt.md)
 
@@ -143,6 +143,14 @@ Total: **34** prompts
 
   **Contributor:** [2slides](https://github.com/2slides)
 
+- ### [Leonardo da Vinci–Inspired Vintage Manuscript Sketches](prompts/leonardo-da-vinci-inspired-vintage-manuscript-sketches/prompt.md)
+
+  ![Preview](prompts/leonardo-da-vinci-inspired-vintage-manuscript-sketches/preview-1.webp)
+
+  **Tags:** `Renaissance style`, `Sepia ink drawings`, `Scientific sketches`, `Handwritten annotations`, `Classical anatomy studies`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
 - ### [Luxury Vintage Christmas](prompts/luxury-vintage-christmas/prompt.md)
 
   ![Preview](prompts/luxury-vintage-christmas/preview-1.webp)
@@ -156,6 +164,22 @@ Total: **34** prompts
   ![Preview](prompts/mckinsey-company-presentation-style/preview-1.webp)
 
   **Tags:** `McKinsey`, `consultant`, `business`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [McKinsey data visualization infographic deep blue](prompts/mckinsey-data-visualization-infographic-deep-blue/prompt.md)
+
+  ![Preview](prompts/mckinsey-data-visualization-infographic-deep-blue/preview-1.png)
+
+  **Tags:** `mckinsey`, `infographic`, `data`, `visualization`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [McKinsey data visualization infographics light blue](prompts/mckinsey-data-visualization-infographics-light-blue/prompt.md)
+
+  ![Preview](prompts/mckinsey-data-visualization-infographics-light-blue/preview-1.png)
+
+  **Tags:** `McKinsey`, `infographic`, `data`, `visualization`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
@@ -188,6 +212,14 @@ Total: **34** prompts
   ![Preview](prompts/orthographic-blueprint-with-plan-elevation-and-section/preview-1.jpeg)
 
   **Tags:** `orthographic blueprint`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Product detailed internal components](prompts/product-detailed-internal-components/prompt.md)
+
+  ![Preview](prompts/product-detailed-internal-components/preview-1.png)
+
+  **Tags:** `Internal components`, `product design`, `3D`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
